@@ -4,3 +4,5 @@ resources:
 - namespace.yaml
 - ../../base
 namespace: pets
+commonAnnotations:
+  backstage.io/kubernetes-id: dice-roller
