@@ -5,4 +5,4 @@ resources:
 - ../../base
 namespace: pets
 commonAnnotations:
-  backstage.io/kubernetes-id: dice-roller
+  backstage.io/kubernetes-id: <backstage-component> #Dynamic value passed through by template.
